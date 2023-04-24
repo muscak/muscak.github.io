@@ -1,0 +1,40 @@
+.jumbotron {
+    background-image: url("../images/markus-spiske-hvSr_CVecVI-unsplash.jpg");
+    background-size: cover;
+    height: 100%;
+    min-height: 300px;
+    color: #fff;
+}
+.navbar{
+    margin-bottom:0;
+}
+.card-image img{
+  min-height: 240px;
+  border-radius: 8px 8px 0px 0;
+}
+.card{
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+}
+.card-text{
+  min-height: 100px;		
+}
+.card-body{
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.btn{
+  margin-top: 15px;
+}
+.about{
+    text-align: justify;
+}
+.card-margin{
+    margin-left: 20px;
+}
+.book-list{
+  margin-left: 30px;
+}
