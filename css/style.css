@@ -10,6 +10,7 @@
 }
 .card-image img{
   min-height: 240px;
+  max-height: 240px;
   border-radius: 8px 8px 0px 0;
 }
 .card{
@@ -28,6 +29,10 @@
 }
 .btn{
   margin-top: 15px;
+}
+.btn_container{
+  display: flex;
+  justify-content: space-between;
 }
 .about{
     text-align: justify;
