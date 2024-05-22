@@ -8,6 +8,10 @@
 .navbar{
     margin-bottom:0;
 }
+.navbar-right {
+  float: right !important;
+  margin-right: -5px;
+}
 .card-image img{
   min-height: 240px;
   max-height: 240px;
